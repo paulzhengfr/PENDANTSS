@@ -33,6 +33,8 @@ This repo contains:
 
 The results will be stored in `\path\result\` and after treatment by `\path\results_reproduction_files\main_treat_simulation_result.m`  the statistic of results will be in the folder `\path\result\stat` . 
 
+## Parameters effects
+Some more extensive results regarding different hyperparameters of the algorithm is shown in [here](./extensive_results.md).
 
 
 ## To-do
