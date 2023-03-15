@@ -1,7 +1,7 @@
 # PENDANTSS: PEnalized Norm-ratios Disentangling Additive Noise, Trend and Sparse Spikes  
 
 
-This repository is the official implementation in Matlab for the work on *PENDANTSS: PEnalized Norm-ratios Disentangling Additive Noise, Trend and Sparse Spikes* (Submitted). [Paper Link](https://hal.archives-ouvertes.fr/hal-03924136)
+This repository is the official implementation in Matlab for the work on *PENDANTSS: PEnalized Norm-ratios Disentangling Additive Noise, Trend and Sparse Spikes* (Submitted). [Paper Link](https://hal.archives-ouvertes.fr/hal-03924136) [Paper Link IEEE](https://ieeexplore.ieee.org/document/10057984) 
 
 ## Abstract
 
@@ -47,15 +47,13 @@ Some more extensive results regarding different hyperparameters of the algorithm
 ### Citing PENDANTSS:
 ---
 ```
-@unpublished{pendantss,
-  TITLE = {{PENDANTSS: PEnalized Norm-ratios Disentangling Additive Noise, Trend and Sparse Spikes}},
-  AUTHOR = {Zheng, Paul and Chouzenoux, Emilie and Duval, Laurent},
-  URL = {https://hal.archives-ouvertes.fr/hal-03924136},
-  NOTE = {working paper or preprint},
-  YEAR = {2023},
-  MONTH = Jan,
-  KEYWORDS = {Blind deconvolution ; sparse signal ; trend estimation ; non-convex optimization ; forward-backward splitting ; alternating minimization ; source separation},
-  HAL_ID = {hal-03924136},
-  HAL_VERSION = {v1},
-}
+@ARTICLE{pendantss,
+  author={Zheng, Paul and Chouzenoux, Emilie and Duval, Laurent},
+  journal={IEEE Signal Processing Letters}, 
+  title={PENDANTSS: PEnalized Norm-ratios Disentangling Additive Noise, Trend and Sparse Spikes}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/LSP.2023.3251891}}
 ```
