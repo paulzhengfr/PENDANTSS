@@ -50,7 +50,7 @@ Some more extensive results regarding different hyperparameters of the algorithm
 @ARTICLE{pendantss,
   author={Zheng, Paul and Chouzenoux, Emilie and Duval, Laurent},
   journal={IEEE Signal Processing Letters}, 
-  title={PENDANTSS: PEnalized Norm-Ratios Disentangling Additive Noise, Trend and Sparse Spikes}, 
+  title={{PENDANTSS: PEnalized Norm-Ratios Disentangling Additive Noise, Trend and Sparse Spikes}}, 
   year={2023},
   volume={30},
   number={},
