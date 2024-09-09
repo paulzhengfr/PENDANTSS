@@ -1,7 +1,7 @@
 # PENDANTSS: PEnalized Norm-ratios Disentangling Additive Noise, Trend and Sparse Spikes  
 
 
-This repository is the official implementation in Matlab for the work on *PENDANTSS: PEnalized Norm-ratios Disentangling Additive Noise, Trend and Sparse Spikes* (Submitted). [Paper Link](https://hal.archives-ouvertes.fr/hal-03924136), [Paper Link IEEE](https://ieeexplore.ieee.org/document/10057984) 
+This repository is the official implementation in Matlab for the work on *PENDANTSS: PEnalized Norm-ratios Disentangling Additive Noise, Trend and Sparse Spikes* (Submitted). [Paper Link](https://hal.archives-ouvertes.fr/hal-03924136), [Paper Link IEEE](https://ieeexplore.ieee.org/document/10057984), [Poster](./poster.pdf).
 
 ## Abstract
 
